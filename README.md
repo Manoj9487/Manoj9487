@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=Manoj9487&label=Profile%20Views&color=3a4a7a&style=flat-square" alt="Profile views" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=3A4A7AFF&center=true&vCenter=true&width=600&height=40&lines=B.Tech+CSE+Student+%7C+Fresher+%7C+Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=3A4A7AFF&center=true&vCenter=true&width=750&height=40&lines=B.Tech+CSE+Student+%7C+Fresher+%7C+Open+to+Opportunities" alt="Typing SVG" />
 </a>
 
 </div>
