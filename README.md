@@ -69,7 +69,7 @@ I'm **Kudupudi Venkat Manoj**, a 3rd-year B.Tech CSE student at MLR Institute of
 
 | Platform | Highlights |
 |---|---|
-| 🟠 **LeetCode** | 228 problems solved · Top 34.06% globally · 20 contests · 69-day max streak |
+| 🟠 **LeetCode** | 305 problems solved · Top 34.06% globally · 20 contests · 104-day max streak |
 | 🟤 **CodeChef** | 1,000+ problems solved · 45 contests · Problem Solver Diamond Badge · 100-day streak |
 | 🔵 **Codeforces** | 125 problems solved · 50-day max streak · Contest Contender Silver Badge |
 | 🟢 **HackerRank** | Python (Basic) Certified · Java ★★★ · Python ★★ · SQL ★★★ |
