@@ -79,13 +79,13 @@ I'm **Kudupudi Venkat Manoj**, a 3rd-year B.Tech CSE student at MLR Institute of
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manoj9487&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Venkat's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manoj9487&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Venkat's GitHub stats" height="165"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj9487&theme=dark&hide_border=true" alt="Venkat's GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Manoj9487&theme=dark&hide_border=true" alt="Venkat's GitHub streak" height="165"/>
 </div>
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj9487&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manoj9487&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="165"/>
 </div>
 
 ---
@@ -130,4 +130,3 @@ I'm **Kudupudi Venkat Manoj**, a 3rd-year B.Tech CSE student at MLR Institute of
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a4a7a,50:2d3a5e,100:1a2238&height=120&section=footer" />
 
 </div>
-
