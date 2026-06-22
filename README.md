@@ -79,12 +79,11 @@ I'm **Kudupudi Venkat Manoj**, a 3rd-year B.Tech CSE student at MLR Institute of
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manoj9487&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Venkat's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Manoj9487&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Venkat's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj9487&theme=dark&hide_border=true" alt="Venkat's GitHub streak" height="165"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj9487&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj9487&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </div>
 
 ---
